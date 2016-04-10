@@ -66,12 +66,15 @@ width: 1320px;
 border-top: 5px solid black;
 }
 
-
-.pista {
+#top span {
 	display: inline-block;
+	width: 400px;
 }
 
+#top ol {
+	
 
+}
 #top h2 {
 	text-align: center;
 	font-size: 40px;
@@ -176,7 +179,7 @@ text-align: center;
 }
 
 #redes .social a {
-	color: purple;
+	color: #3B0B0B;
 	font-size: 44px;
 	margin-right: 140px;
 	line-height: 50px;
